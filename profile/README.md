@@ -16,5 +16,5 @@ To learn more about how we work and develop the community, you can visit [our pa
 
 **Where else to follow us:**
 - Announcements of our events, useful links, and сurated set of memes in our [Telegram channel](https://t.me/tinkoffai)
-- Telegram channel with [job openings](https://t.me/tinkoffjobs) in various fields and streams
+- Telegram channel with [job openings](https://l.tinkoff.ru/tinkoffcrew_github_ai) in various fields and streams
 - Telegram channel with [Tinkoff IT](https://l.tinkoff.ru/telegram_it_github_ai) digest
