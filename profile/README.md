@@ -12,8 +12,9 @@ Hello! You are on the page of the Tinkoff AI Team. Here we will share our expert
 - [PALBERT](https://github.com/tinkoff-ai/palbert) - official implementation of the article "[PALBERT: Teaching ALBERT to Ponder](https://arxiv.org/abs/2204.03276)" (NeurIPS 2022, spotlight)
 - [EOP](https://github.com/tinkoff-ai/eop) - official implementation of the article "[Showing Your Offline Reinforcement Learning Work: Online Evaluation Budget Matters](https://arxiv.org/abs/2110.04156)" (ICML 2022, spotlight)
 
-To learn more about how we work and develop the community, you can visit [our page](https://l.tinkoff.ru/tinkoff_career).
+To learn more about how we work and develop the community, you can visit [our page](https://l.tinkoff.ru/career_it_github_ai).
 
 **Where else to follow us:**
 - Announcements of our events, useful links, and сurated set of memes in our [Telegram channel](https://t.me/tinkoffai)
 - Telegram channel with [job openings](https://t.me/tinkoffjobs) in various fields and streams
+- Telegram channel with [Tinkoff IT](https://l.tinkoff.ru/telegram_it_github_ai) digest
